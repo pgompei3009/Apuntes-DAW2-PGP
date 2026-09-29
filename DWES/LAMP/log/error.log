@@ -1,0 +1,60 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 11:46:54.303134 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 11:46:54.303284 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 11:47:47.405025 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 11:47:47.405147 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 11:48:19.587775 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 11:48:19.587851 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 11:49:33.723236 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 11:49:33.723355 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 11:52:27.931898 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 11:52:27.932040 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 11:53:31.161225 2026] [core:warn] [pid 8] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 29 11:53:31.163233 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 11:53:31.163293 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 11:59:33.894520 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 11:59:33.894624 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 12:04:01.493688 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 12:04:01.493819 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 12:05:10.104246 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 12:05:10.104337 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 12:05:31.319529 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 12:05:31.319613 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 12:07:21.060534 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 12:07:21.060962 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 12:09:03.606236 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 12:09:03.606348 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 12:09:55.230547 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 12:09:55.230788 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 12:10:19.589909 2026] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 12:10:19.590245 2026] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 12:11:33.420613 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 12:11:33.420776 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 12:12:00.858263 2026] [core:warn] [pid 8] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 29 12:12:00.860640 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 12:12:00.860744 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 12:15:36.438947 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 12:15:36.439025 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 12:15:59.170952 2026] [core:warn] [pid 8] AH00098: pid file /var/run/apache2/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Sep 29 12:15:59.173829 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 12:15:59.173998 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.21.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Sep 29 12:16:33.177377 2026] [mpm_prefork:notice] [pid 8] AH00163: Apache/2.4.52 (Ubuntu) configured -- resuming normal operations
+[Tue Sep 29 12:16:33.177515 2026] [core:notice] [pid 8] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
