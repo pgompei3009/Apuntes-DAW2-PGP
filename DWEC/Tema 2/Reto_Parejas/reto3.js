@@ -25,7 +25,7 @@ Introduce el tipo de IVA del articulo: `);
 
 
 function calcular_iva(iva, precio){
-    return precio*(1 - iva);
+    return (precio*(1 + iva), 2).toFixed(2);
 }
 
 
@@ -37,7 +37,7 @@ function crear_ticket(precios, cantidades){
         total += precios[i]*cantidades[i];
     };
     alert(ticket);
-    if (total >= 50){
+    if (total <= 50){
         total += 6.5;
     }
     return total;
